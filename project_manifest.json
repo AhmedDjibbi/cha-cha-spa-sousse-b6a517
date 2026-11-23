@@ -1,0 +1,10 @@
+{
+  "business_name": "Cha Cha Spa Sousse",
+  "slug": "cha-cha-spa-sousse_b6a517",
+  "projectId": "stitch-generated",
+  "tokens": {},
+  "screens": {
+    "home_desktop": "generated",
+    "home_mobile": "generated"
+  }
+}
