@@ -1,10 +1,19 @@
 {
-  "business_name": "Cha Cha Spa Sousse",
-  "slug": "cha-cha-spa-sousse_b6a517",
-  "projectId": "stitch-generated",
-  "tokens": {},
-  "screens": {
-    "home_desktop": "generated",
-    "home_mobile": "generated"
-  }
+    "business_name":  "Cha Cha Spa Sousse",
+    "slug":  "cha-cha-spa-sousse_b6a517",
+    "projectId":  "stitch-generated",
+    "tokens":  {
+
+               },
+    "screens":  {
+                    "home_desktop":  "generated",
+                    "home_mobile":  "generated"
+                },
+    "deployment":  {
+                       "url":  "https://cha-cha-spa-sousse-b6a517-git-main-ahmeddjibbis-projects.vercel.app",
+                       "vercelUrl":  "https://cha-cha-spa-sousse-b6a517-git-main-ahmeddjibbis-projects.vercel.app",
+                       "deploymentUrl":  "https://cha-cha-spa-sousse-b6a517-n3lhdzhkf-ahmeddjibbis-projects.vercel.app",
+                       "status":  "online"
+                   },
+    "rootEntryPoint":  "index.html"
 }
